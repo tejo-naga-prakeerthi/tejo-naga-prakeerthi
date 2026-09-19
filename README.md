@@ -95,8 +95,8 @@ I'm currently building my problem-solving foundation through **DSA, C++ and Leet
 
 **More DSA → More Problems**
 
-📚 Following my DSA learning path
-💻 Practicing problems on LeetCode
+📚 Following my DSA learning path  
+💻 Practicing problems on LeetCode  
 📂 Documenting my journey on GitHub
 
 🔗 [Explore My DSA Journey](#)

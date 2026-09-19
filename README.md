@@ -84,3 +84,33 @@ An ongoing exploration using computer vision and machine learning for sign-langu
 </p>
 
 ---
+
+---
+
+# 🧠 My DSA Journey
+
+> Learning to think in patterns, one problem at a time.
+
+I'm currently building my problem-solving foundation through **DSA, C++ and LeetCode**.
+
+### 📍 Where I'm At
+
+| 🧩 Area | 🚦 Status |
+|:---|:---:|
+| C++ Fundamentals | 🟢 Learning |
+| Pattern Programming | 🟢 Learning |
+| Basic Problem Solving | 🟢 Practicing |
+| Arrays & Strings | 🟡 Exploring |
+| LeetCode | 🟡 Building consistency |
+| Advanced DSA | 🔵 Coming later |
+
+### 🔥 Recent Progress
+
+```text
+Variables → Data Types → Operators → Conditionals
+                              ↓
+                         Basic Problems
+                              ↓
+                           LeetCode
+                              ↓
+                     More DSA → More Problems

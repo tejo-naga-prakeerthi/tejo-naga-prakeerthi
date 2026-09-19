@@ -81,19 +81,23 @@ I'm currently building my problem-solving foundation through **DSA, C++ and Leet
 
 ### 🔥 Recent Progress
 
-```text
-Variables → Data Types → Operators → Conditionals
-                              ↓
-                         Basic Problems
-                              ↓
-                           LeetCode
-                              ↓
-                     More DSA → More Problems
-```
+```markdown
+### 🔥 Recent Progress
 
-📚 Following my DSA learning path
-💻 Practicing problems on LeetCode
-📂 Documenting my journey on GitHub
+> **Variables → Data Types → Operators → Conditionals**
+>
+> ↓
+>
+> **Basic Problems**
+>
+> ↓
+>
+> **LeetCode**
+>
+> ↓
+>
+> **More DSA → More Problems**
+
 
 🔗 [Explore My DSA Journey](#)
 

@@ -114,3 +114,45 @@ Variables → Data Types → Operators → Conditionals
                            LeetCode
                               ↓
                      More DSA → More Problems
+
+
+---
+
+# 🍊 Tangerine Tech Lab
+
+### What if learning tech didn't have to be boring?
+
+> **Breaking things, building things, learning everything in between.**
+
+Tangerine Tech Lab is my little experimental corner of the internet —
+where I turn curiosity into questions, questions into experiments,
+and experiments into things worth sharing.
+
+### 🔍 Tech Detective
+**What if we looked at technology like a mystery?**
+
+Find the clues.  
+Think about the problem.  
+Try your approach.  
+See what happens.
+
+🕵️ Beginner-friendly tech cases  
+💡 Problem-solving challenges  
+💬 Community approaches & discussions
+
+### 🧪 Tangerine Experiments
+Small experiments, random ideas and things I'm curious enough to try.
+
+### 🍊 Sweet & Sour
+The things that worked beautifully...  
+and the things that absolutely did NOT. 😭
+
+### 🛠️ Build With Me
+Small builds where the process matters as much as the final result.
+
+### 🎮 Tech Playground
+A place for fun experiments, mini challenges and things I build just because I wondered:
+
+> **"What if...?"**
+
+🔗 **Explore Tangerine Tech Lab**

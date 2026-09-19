@@ -46,23 +46,41 @@ A project combining computer vision and generative AI to create an interactive s
 ---
 
 ### 🩸 Smart Blood Donation & Availability System
-**Connecting blood donors with people who need them.**
+
+<p align="center">
+  <img src="https://placehold.co/900x350?text=Smart+Blood+Donation" width="90%">
+</p>
+
+> **Connecting blood donors with people who need them.**
 
 A system designed around donor matching, blood availability and priority-based requests.
 
-`Python` `Flask` `SQLite`
+**Tech:** `Python` `Flask` `SQLite`
 
-🔗 [View Project](#)
+<p align="center">
+  <a href="#">
+    🔗 View Project
+  </a>
+</p>
 
 ---
 
 ### 🤟 SpeakWithHands
-**Turning hand gestures into meaningful communication.**
+
+<p align="center">
+  <img src="https://placehold.co/900x350?text=SpeakWithHands" width="90%">
+</p>
+
+> **Turning hand gestures into meaningful communication.**
 
 An ongoing exploration using computer vision and machine learning for sign-language recognition.
 
-`Python` `MediaPipe` `LSTM`
+**Tech:** `Python` `MediaPipe` `LSTM`
 
-🔗 [View Project](#)
+<p align="center">
+  <a href="#">
+    🔗 View Project
+  </a>
+</p>
 
 ---

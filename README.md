@@ -19,3 +19,42 @@ and I love turning random ideas into things I can actually build and experiment 
 | 🏠 About Me | 🚀 Projects | 🧠 DSA Journey | 🍊 Tangerine Tech Lab | 🎮 Beyond Code |
 |:---:|:---:|:---:|:---:|:---:|
 | Who I am | Things I've built | My problem-solving journey | Experiments & ideas | Life beyond tech |
+
+---
+
+# 🚀 Featured Projects
+
+> A few things I've built, explored, and experimented with.
+
+### 🤖 StyleAI
+**AI-powered style recommendation system**
+
+A project combining computer vision and generative AI to create an interactive styling experience.
+
+`Python` `Flask` `OpenCV` `Groq LLaMA-3`
+
+🔗 [View Project](#)
+
+---
+
+### 🩸 Smart Blood Donation & Availability System
+**Connecting blood donors with people who need them.**
+
+A system designed around donor matching, blood availability and priority-based requests.
+
+`Python` `Flask` `SQLite`
+
+🔗 [View Project](#)
+
+---
+
+### 🤟 SpeakWithHands
+**Turning hand gestures into meaningful communication.**
+
+An ongoing exploration using computer vision and machine learning for sign-language recognition.
+
+`Python` `MediaPipe` `LSTM`
+
+🔗 [View Project](#)
+
+---

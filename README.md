@@ -11,3 +11,11 @@ and I love turning random ideas into things I can actually build and experiment 
 🔍 Always asking **"What if...?"**  
 🚀 Building projects that solve real problems  
 🍊 Creating **Tangerine Tech Lab** — my little space for tech experiments
+
+---
+
+## 🧭 Explore My World
+
+| 🏠 About Me | 🚀 Projects | 🧠 DSA Journey | 🍊 Tangerine Tech Lab | 🎮 Beyond Code |
+|:---:|:---:|:---:|:---:|:---:|
+| Who I am | Things I've built | My problem-solving journey | Experiments & ideas | Life beyond tech |

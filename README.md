@@ -27,14 +27,22 @@ and I love turning random ideas into things I can actually build and experiment 
 > A few things I've built, explored, and experimented with.
 
 ### 🤖 StyleAI
-**AI-powered style recommendation system**
+
+<p align="center">
+  <img src="https://placehold.co/900x350?text=StyleAI" width="90%">
+</p>
+
+> **AI-powered style recommendation system**
 
 A project combining computer vision and generative AI to create an interactive styling experience.
 
-`Python` `Flask` `OpenCV` `Groq LLaMA-3`
+**Tech:** `Python` `Flask` `OpenCV` `Groq LLaMA-3`
 
-🔗 [View Project](#)
-
+<p align="center">
+  <a href="#">
+    🔗 View Project
+  </a>
+</p>
 ---
 
 ### 🩸 Smart Blood Donation & Availability System

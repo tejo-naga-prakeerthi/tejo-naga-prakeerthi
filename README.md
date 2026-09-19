@@ -80,12 +80,19 @@ I'm currently building my problem-solving foundation through **DSA, C++ and Leet
 | Advanced DSA          |     🔵 Coming later     |
 
 ### 🔥 Recent Progress
+
 **Variables → Data Types → Operators → Conditionals**
+
 ↓
+
 **Basic Problems**
+
 ↓
+
 **LeetCode**
+
 ↓
+
 **More DSA → More Problems**
 
 📚 Following my DSA learning path  

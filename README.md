@@ -28,7 +28,7 @@ and I love turning random ideas into things I can actually build and experiment 
 
 ### 🤖 StyleAI
 
-> **AI-powered style recommendation system**
+> AI-powered style recommendation system
 
 A project combining computer vision and generative AI to create an interactive styling experience.
 
@@ -40,7 +40,7 @@ A project combining computer vision and generative AI to create an interactive s
 
 ### 🩸 Smart Blood Donation & Availability System
 
-> **Connecting blood donors with people who need them.**
+> Connecting blood donors with people who need them.
 
 A system designed around donor matching, blood availability and priority-based requests.
 
@@ -52,7 +52,7 @@ A system designed around donor matching, blood availability and priority-based r
 
 ### 🤟 SpeakWithHands
 
-> **Turning hand gestures into meaningful communication.**
+> Turning hand gestures into meaningful communication.
 
 An ongoing exploration using computer vision and machine learning for sign-language recognition.
 
@@ -95,8 +95,8 @@ I'm currently building my problem-solving foundation through **DSA, C++ and Leet
 
 **More DSA → More Problems**
 
-📚 Following my DSA learning path  
-💻 Practicing problems on LeetCode  
+📚 Following my DSA learning path
+💻 Practicing problems on LeetCode
 📂 Documenting my journey on GitHub
 
 🔗 [Explore My DSA Journey](#)

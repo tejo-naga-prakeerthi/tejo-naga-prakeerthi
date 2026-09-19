@@ -156,3 +156,30 @@ A place for fun experiments, mini challenges and things I build just because I w
 > **"What if...?"**
 
 🔗 **Explore Tangerine Tech Lab**
+
+
+---
+
+# 🌱 Currently Exploring
+
+> Curiosity is currently taking me in a few different directions.
+
+| 🧠 Learning | 🔨 Practicing | 🔍 Exploring |
+|:---:|:---:|:---:|
+| DSA | LeetCode | Machine Learning |
+| C++ | Problem Solving | DevOps |
+| APIs | Git & GitHub | AI Tools |
+
+### 📌 My Current Focus
+
+**01 — DSA**  
+Building stronger problem-solving fundamentals and consistency.
+
+**02 — Projects**  
+Turning ideas into practical, working systems.
+
+**03 — AI & ML**  
+Exploring how intelligent systems can solve real-world problems.
+
+**04 — DevOps**  
+Understanding how applications move from development to deployment.
